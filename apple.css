@@ -1,0 +1,1459 @@
+
+body{
+    background-color: rgb(245, 245, 247);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.top{
+    width: 100%;
+    height: 20px;
+    background-color: rgb(245, 245, 247);
+    margin-top: -8px;
+    margin-right: 0px;
+    padding-right: 17px;
+    margin-left: -8px;
+    margin-bottom: 0;
+}
+.inner-top {
+    width: 100%;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+    margin-right: 0px;
+    padding-right: 30px;
+    margin-left: -8px;
+    padding-top: 0px;
+    display: inline-block;
+    
+}
+.top img{
+    width: 36px;
+    padding-left: 135px;
+    padding-top: 8px;
+    align-items: center;
+    cursor: pointer;
+}
+.store{
+    padding-left: 23px;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    vertical-align: 12px;
+    font-size: 12px;
+    color: rgb(51, 51, 54);
+    font-weight: 500;
+    cursor: pointer;
+}
+.mac {
+    padding-left: 35px;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    vertical-align: 12px;
+    font-size: 12px;
+    color: rgb(51, 51, 54);
+    font-weight: 500;
+    cursor: pointer;
+
+}
+.ipad {
+    padding-left: 35px;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    vertical-align: 12px;
+    font-size: 12px;
+    color: rgb(51, 51, 54);
+    font-weight: 500;
+    cursor: pointer;
+
+}
+.iphone{
+    padding-left: 35px;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    vertical-align: 12px;
+    font-size: 12px;
+    color: rgb(51, 51, 54);
+    font-weight: 500;
+    cursor: pointer;
+}
+.watch{
+    padding-left: 35px;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    vertical-align: 12px;
+    font-size: 12px;
+    color: rgb(51, 51, 54);
+    font-weight: 500;
+    cursor: pointer;
+}
+.airpods{
+    padding-left: 35px;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    vertical-align: 12px;
+    font-size: 12px;
+    color: rgb(51, 51, 54);
+    font-weight: 500;
+    cursor: pointer;
+
+}
+.tv{
+    padding-left: 35px;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    vertical-align: 12px;
+    font-size: 12px;
+    color: rgb(51, 51, 54);
+    font-weight: 500;
+    cursor: pointer;
+}
+.Entertainments{
+    padding-left: 35px;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    vertical-align: 12px;
+    font-size: 12px;
+    color: rgb(51, 51, 54);
+    font-weight: 500;
+    cursor: pointer;
+}
+.Accessories{
+    padding-left: 35px;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    vertical-align: 12px;
+    font-size: 12px;
+    color: rgb(51, 51, 54);
+    font-weight: 500;
+    cursor: pointer;
+}
+.support{
+    padding-left: 35px;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    vertical-align: 12px;
+    font-size: 12px;
+    color: rgb(51, 51, 54);
+    font-weight: 500;
+    cursor: pointer;
+}
+.button{
+    vertical-align: 12px;
+    margin-left: 35px;
+   
+}
+.button img{
+    width: 15px;
+    padding-left: 30px;
+    cursor: pointer;
+}
+.bag-button{
+    vertical-align: 12px;
+    margin-left: 35px;
+}
+.bag-button img{
+    width: 24px;
+    padding-left: 3px;
+    vertical-align: bottom;
+    cursor: pointer;
+}
+.lesser-button {
+    margin-left: 135px;
+    margin-top: 22px;
+    align-items: center;
+    color: rgb(51, 51, 54);
+    border: none;
+    background-color: rgb(255, 255, 255);
+   
+
+}
+.lesser-button img {
+    width: 20px;
+    margin-left: 0;
+    margin-right: 35px;
+    cursor: pointer;
+}
+.greater-button {
+    margin-left: 135px;
+    margin-top: 22px;
+    align-items: center;
+    color: rgb(51, 51, 54);
+    border: none;
+    background-color: rgb(255, 255, 255);
+
+}
+.greater-button img {
+    width: 17px;
+    margin-left: 775px;
+    margin-right: 35px;
+    align-items: center;
+    cursor: pointer;
+}
+.inner-top-p {
+    width: 825px;
+    font-size: 14px;
+    color: rgb(29, 29, 31);
+    font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    margin-left: 214px;
+    margin-top: -32px;
+    font-stretch: expanded;
+    font-weight: 545;
+    text-decoration-style: solid;
+    margin-bottom: 4px;
+}
+.see-offer {
+    color: rgb(0, 102, 204);
+    cursor: pointer;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 545;
+    font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration-style: solid;
+    margin-left: 586px;
+    text-decoration: none;
+}
+.see-offer:hover {
+    text-decoration: underline;
+}
+.mid-portion {
+    width: 677px;
+    height: 264px;
+    background-color: rgb(245, 245, 247);
+    margin-left: 128px;
+}
+.paragraph {
+    font-size: 48px;
+    line-height: 1.08349;
+    font-weight: 600;
+    letter-spacing: -.003em;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    display: inline;
+    color:rgb(110, 110, 115);
+    width: 676px;
+    position: absolute;
+}
+.pstore {
+    color: black;
+}
+.mid-portion2 {
+    width: 451px;
+    height: 264px;
+    background-color: rgb(245, 245, 247);;
+    margin-left: 806px;
+    margin-top: -264px;
+}.mid-right img{
+    width: 36px;
+    height: 36px;
+    padding-top: 0px;
+    padding-left: 108px;
+}
+.mid-right-text {
+    font-weight: 545;
+    font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 151px;
+    margin-top: -56px;
+    margin-bottom: 2px;
+}
+.mid-button1{
+    padding-left: 5px;
+    margin-left: 153px;
+    border: none;
+    margin-top: 0px;
+    color: rgb(0, 102, 204);
+    cursor: pointer;
+}
+.mid-button1:hover {
+    text-decoration: underline;
+}
+.mid-right2 img{
+    width: 36px;
+    height: 36px;
+    padding-top: 38px;
+    padding-left: 108px;
+}
+.mid-right-text2 {
+    font-weight: 545;
+    font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 151px;
+    margin-top: -56px;
+    margin-bottom: 2px;
+}
+.mid-button2{
+    padding-left: 5px;
+    margin-left: 153px;
+    border: none;
+    margin-top: 0px;
+    color: rgb(0, 102, 204);
+    cursor: pointer;
+}
+.mid-button2:hover {
+    text-decoration: underline;
+}
+.second-position {
+    width: 100%;
+    height: 130px;
+    background-color: rgb(245, 245, 247);
+    margin-top: -24px;
+    margin-bottom: 0;
+}
+.pc img{
+    width: 200px;
+    height: 130px;
+    margin-top: -18px;
+    vertical-align: top;
+    margin-right: 0;
+}
+.phone img{
+    width: 200px;
+    height: 130px;
+    margin-top: -18px;
+    vertical-align: top;
+    margin-left: 13px;
+    margin-right: 0;
+
+}
+.iipad img{
+    width: 200px;
+    height: 130px;
+    margin-top: -18px;
+    vertical-align: top;
+    margin-left: 13px;
+    margin-right: 0;
+
+}
+.iwatch img{
+    width: 200px;
+    height: 130px;
+    margin-top: -18px;
+    vertical-align: top;
+    margin-left: 13px;
+    margin-right: 0;
+}
+.iairpodes img{
+    width: 200px;
+    height: 130px;
+    margin-top: -18px;
+    vertical-align: top;
+    margin-left: 13px;
+    margin-right: 0;
+}
+.iairtags img{
+    width: 200px;
+    height: 130px;
+    margin-top: -18px;
+    vertical-align: top;
+    margin-left: -24px;
+    margin-right: 0;
+}
+.texting {
+   width: 100%;
+   height: 36px;
+   background-color: rgb(245, 245, 247);
+   margin-top: -8px;
+}
+.text1 {
+    vertical-align: top;
+    padding-left: 107px;
+    margin-right: 0;
+    font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: rgb(29, 29, 31);
+    font-size: 14px;
+    font-weight: 545;
+}
+.text1:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.text2 {
+    vertical-align: top;
+    padding-left: 150px;
+    margin-right: 0;
+    font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: rgb(29, 29, 31);
+    font-size: 14px;
+    font-weight: 545;
+}
+.text2:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.text3 {
+    vertical-align: top;
+    padding-left: 178px;
+    margin-right: 0;
+    font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: rgb(29, 29, 31);
+    font-size: 14px;
+    font-weight: 545;
+}
+.text3:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.text4 {
+    vertical-align: top;
+    padding-left: 184px;
+    margin-right: 0;
+    font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: rgb(29, 29, 31);
+    font-size: 14px;
+    font-weight: 545;
+}
+.text4:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.text5 {
+    vertical-align: top;
+    padding-left: 184px;
+    margin-right: 0;
+    font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: rgb(29, 29, 31);
+    font-size: 14px;
+    font-weight: 545;
+}
+.text5:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.text6 {
+    vertical-align: top;
+    padding-left: 111px;
+    margin-right: 0;
+    font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: rgb(29, 29, 31);
+    font-size: 14px;
+    font-weight: 545;
+}
+.text6:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.third-position {
+width: 100%;
+height: 40px;
+background-color: rgb(245, 245, 247);
+margin-top: 70px;
+}
+.p3text {
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    letter-spacing: .007em;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    display: inline;
+    color: rgb(110, 110, 115);
+    margin-left: 133px;
+}
+.thelatest {
+    color: rgb(29, 29, 31);
+}
+.fourth-position {
+    width: 100%;
+    height: 600px;
+    background-color: rgb(245, 245, 247);
+    margin-bottom: 0;
+}
+.p4inner {
+    display: flex;
+    width: 400px;
+    height: 500px;
+    background-color: rgb(245, 245, 247);
+    margin-left: 141px;
+    margin-top: 13px;
+}
+.p4inner-sub img{
+    width: 400px;
+    height: 500px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    cursor: pointer;
+    margin-bottom: 0;
+
+}
+.p4inner-sub img:hover {
+    width: 405px;
+    height: 505px;
+    border-radius: 18px;
+    box-shadow: 8px 12px 18px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+
+}
+.p4inner-sub2 img{
+    width: 400px;
+    height: 500px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    cursor: pointer;
+    margin-left: 25px;
+    margin-bottom: 0;
+
+}
+.p4inner-sub2 img:hover {
+    width: 405px;
+    height: 505px;
+    border-radius: 18px;
+    box-shadow: 8px 12px 18px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    margin-left: 25px;
+
+}
+.p4inner-sub3 img{
+    width: 400px;
+    height: 500px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    cursor: pointer;
+    margin-left: 25px;
+    margin-bottom: 0;
+
+}
+.p4inner-sub3 img:hover {
+    width: 405px;
+    height: 505px;
+    border-radius: 18px;
+    box-shadow: 8px 12px 18px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    margin-left: 25px;
+
+}
+.p4text1 {
+    margin-top: -476px;
+    margin-left: 27px;
+    margin-right: 0;
+    margin-bottom: 0;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 530;
+    color: #6e6e73;
+    font-size: 12px;
+}
+.p4text2 {
+    color: #1d1d1f;
+    display: inline-block;
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    line-height: 1.14286;
+    width: 220px;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.p4text3{
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #1d1d1f;
+    margin-top: 14px;
+    font-size: 17px;
+    margin-left: 25px;
+}
+.doubleplus {
+    vertical-align: super;
+}
+.p4sub2text1 {
+    margin-top: -476px;
+    margin-left: 59px;
+    margin-right: 0;
+    margin-bottom: 0;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 530;
+    color: #6e6e73;
+    font-size: 12px;
+}
+.p4sub2text2 {
+    color: #1d1d1f;
+    display: inline-block;
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    line-height: 1.14286;
+    width: 282px;
+    margin-left: 57px;
+    margin-top: 15px;
+}
+.p4sub2text3 {
+    font-size: 17px;
+    line-height: 1.23536;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #1d1d1f;
+    padding-top: 10px;
+    margin-top: 0;
+    margin-left: 60px;
+    width: 314px;
+}
+.p4sub3text1 {
+    margin-top: -476px;
+    margin-left: 59px;
+    margin-right: 0;
+    margin-bottom: 0;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 530;
+    color: #f5f5f7;
+    font-size: 12px;
+}
+.p4sub3text2 {
+    color: #f5f5f7;
+    display: inline-block;
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    line-height: 1.14286;
+    width: 282px;
+    margin-left: 57px;
+    margin-top: 15px;
+}
+.p4sub3text3{
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #f5f5f7;
+    margin-top: 14px;
+    font-size: 17px;
+    margin-left: 58px;
+}
+.fifth-position {
+    width: 100%;
+    height: 32px;
+    margin-top: 0;
+    background-color: rgb(245, 245, 247);
+    margin-top: -35px;
+}
+.p5text1 {
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    letter-spacing: .007em;
+    margin-left: 150px;
+}
+.p5text1span {
+    color: #6e6e73;
+}
+.sixth-position {
+    width: 100%;
+    height: 600px;
+    background-color: rgb(245, 245, 247);
+}
+.p6sub1 {
+    width: 480px;
+    height: 500px;
+    margin-left: 150px;
+    margin-top: 17px;
+}
+.p6sub2 img{
+    width: 480px;
+    height: 500px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    border-radius: 18px;
+    cursor: pointer;
+}
+.p6sub2 img:hover {
+    width: 485px;
+    height: 505px;
+    box-shadow: 8px 12px 18px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+}
+.p6sub2text1 {
+    margin-top: -468px;
+    margin-left: 35px;
+    font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: rgb(110, 110, 115);
+}
+.p6sub2text2 {
+    font-family: "SF Pro Display", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 33px;
+    margin-top: 17px;
+    font-size: 26px;
+    font-weight: 550;
+    width: 465px
+}
+.p6sub3 {
+    width:480px ;
+    height: 240px;
+    margin-left: 658px;
+    margin-top: -499px;
+    
+}
+.p6sub3text1 img {
+    width:480px ;
+    height: 240px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    cursor: pointer;
+}
+.p6sub3text1 img:hover{
+    width:485px ;
+    height: 245px;
+    box-shadow: 8px 12px 18px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+
+}
+.p6sub4 {
+    width:480px ;
+    height: 240px;
+    margin-left: 658px;
+    margin-top: -499px;
+}
+.p6sub4text1 img {
+    width:480px ;
+    height: 240px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    cursor: pointer;
+    margin-top: 518px;
+}
+.p6sub4text1 img:hover{
+    width:485px ;
+    height: 245px;
+    box-shadow: 8px 12px 18px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+
+}
+.p6sub3text2 {
+    color: #1d1d1f;
+    font-family: "SF Pro Display", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    margin-top: -183px;
+    margin-left: 27px;
+    font-weight: 550;
+
+}
+.p6sub4text2 {
+    font-family: "SF Pro Display", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    color: #1d1d1f;
+    font-weight: 550;
+    margin-top: -188px;
+    margin-left: 36px;
+    width: 218px;
+
+}
+.seventh-position {
+    width: 100%;
+    height: 33px;
+    background-color: rgb(245, 245, 247);
+    margin-top: -43px;
+}
+
+.p7text1 {
+    color:  #1d1d1f;;
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    letter-spacing: .007em;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    display: inline;
+    margin-left: 145px;
+    
+}
+.p7span1 {
+    color: #6e6e73;;
+}
+.eight-position {
+    width: 100%;
+    height: 283px;
+    background-color: rgb(245, 245, 247);
+}
+.p8sub1 {
+    width: 313px;
+    height: 240px;
+    background-color: white;
+    margin-left: 149px;
+    margin-top: 15px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    cursor: pointer;
+}
+.p8sub2 img {
+    width: 42px;
+    margin-left: 25px;
+    margin-top: 17px;
+    cursor: pointer;
+}
+.p8text1 {
+    color: #1d1d1f;
+    cursor: pointer;
+    font-size: 24px;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    margin-left: 24px;
+    margin-top: 5px;
+}
+.p8text2 {
+    cursor: pointer;
+    font-size: 24px;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    margin-left: 24px;
+    margin-top: 5px;
+    color: #68cc45;
+}
+.p8sub3 {
+    width: 313px;
+    height: 240px;
+    background-color: white;
+    margin-left: 485px;
+    margin-top: -240px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    cursor: pointer;
+}
+.p8sub4 img {
+    width: 117px;
+    margin-left: 3px;
+    margin-top: 8px;
+    cursor: pointer;
+    margin-bottom: 0px;
+}
+.p8sub4text1 {
+    color: #ac39ff;
+    cursor: pointer;
+    font-size: 24px;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    margin-left: 24px;
+    margin-top: -17px;
+    width: 240px;
+}
+.p8sub4span {
+    color: #1d1d1f;
+}
+.p8sub5 {
+    width: 313px;
+    height: 240px;
+    background-color: white;
+    margin-left: 821px;
+    margin-top: -240px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    cursor: pointer;
+}
+.p8sub6 img {
+    width: 79px;
+    margin-left: 3px;
+    margin-top: 8px;
+    cursor: pointer;
+    margin-bottom: 0px;
+}
+.p8sub6text1 {
+    color: #1d1d1f;
+    cursor: pointer;
+    font-size: 24px;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    margin-left: 24px;
+    margin-top: -17px;
+    width: 240px;
+}
+.p8sub6span1 {
+    color: #ea5418;
+}
+.p8sub7 {
+    width: 313px;
+    height: 240px;
+    background-color: white;
+    margin-left: 1160px;
+    margin-top: -240px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    cursor: pointer;
+}
+.p8sub8 img {
+    width: 79px;
+    margin-left: 3px;
+    margin-top: 8px;
+    cursor: pointer;
+    margin-bottom: 0px;
+}
+.p8sub8text1 {
+    color: #007aff;
+    cursor: pointer;
+    font-size: 24px;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    margin-left: 24px;
+    margin-top: -17px;
+    width: 240px;
+}
+.p8sub8span1 {
+    color: #1d1d1f;
+}
+.nine-position {
+    width: 100%;
+    height: 32px;
+    background-color: rgb(245, 245, 247);
+}
+.p9sub1 {
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    letter-spacing: .007em;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    display: inline;
+    margin-left: 142px;
+}
+.p9span1 {
+    color: #6e6e73;
+}
+.ten-position {
+    width: 100%;
+    height: 600px;
+    background-color: rgb(245, 245, 247);
+}
+.p10sub1 {
+    width: 400px;
+    height: 500px;
+    margin-left: 148px;
+    margin-top: 25px;
+}
+.p10sub2 img{
+    width: 400px;
+    height: 500px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    cursor: pointer;
+}
+.p10sub2 img:hover {
+    width: 405px;
+    height: 505px;
+    border-radius: 18px;
+    box-shadow: 4px 8px 18px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    cursor: pointer;
+}
+.p10sub2text1 {
+    font-size: 28px;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    color: #1d1d1f;
+    margin-top: -453px;
+    margin-left: 30px;
+}
+.p10sub2text2{
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #1d1d1f;
+    line-height: 1.23536;
+    margin-left: 29px;
+    width: 255px;
+}
+.p10sub3 {
+    width: 313px;
+    height: 500px;
+    margin-left: 574px;
+    margin-top: -500px;
+    border-radius: 18px;
+    background-color: white;
+}
+.p10sub4 img{
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    margin-top: 67px;
+    margin-left: 56px;
+}
+.p10sub3:hover {
+    width: 318px;
+    height: 505px;
+    border-radius: 18px;
+    box-shadow: 4px 8px 18px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    cursor: pointer;
+}
+.p10sub5 img{
+    width: 200px;
+    margin-left: 62px;
+}
+.p10sub5text1 {
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #bf4800;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.p10sub5text2 {
+    font-size: 17px;
+    line-height: 1.23536;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    color: #1d1d1f;
+    display: block;
+    width: 225px;
+    margin-left: 29px;
+    margin-top: 0;
+}
+.p10sub5text3 {
+    font-size: 14px;
+    line-height: 1.28577;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    cursor: pointer;
+    color: rgb(29, 29, 31);
+    margin-left: 29px;
+    margin-top: 59px;
+}
+.p10sub6 {
+    width: 313px;
+    height: 500px;
+    margin-left: 911px;
+    margin-top: -500px;
+    border-radius: 18px;
+    background-color: white;
+}
+.p10sub7 img{
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    margin-top: 67px;
+    margin-left: 56px;
+}
+.p10sub6:hover {
+    width: 318px;
+    height: 505px;
+    border-radius: 18px;
+    box-shadow: 4px 8px 18px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    cursor: pointer;
+}
+.p10sub8 img{
+    width: 200px;
+    margin-left: 62px;
+}
+.p10sub8text1 {
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #bf4800;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.p10sub8text2 {
+    font-size: 17px;
+    line-height: 1.23536;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    color: #1d1d1f;
+    display: block;
+    width: 225px;
+    margin-left: 29px;
+    margin-top: 0;
+}
+.p10sub8text3 {
+    font-size: 14px;
+    line-height: 1.28577;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    cursor: pointer;
+    color: rgb(29, 29, 31);
+    margin-left: 29px;
+    margin-top: 59px;
+}
+.eleven-position {
+    width: 100%;
+    height: 32px;
+    background-color: rgb(245, 245, 247);
+}
+.p11sub1 {
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    letter-spacing: .007em;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    display: inline;
+    margin-left: 142px;
+}
+.p11span1 {
+    color: #6e6e73;
+}
+.twelth-position {
+    width: 100%;
+    height: 600px;
+    background-color: rgb(245, 245, 247);
+    margin-top: 23px;
+}
+.p12sub1 {
+    width: 313px;
+    height: 500px;
+    background-color: white;
+    width: 313px;
+    height: 500px;
+    background-color: white;
+    margin-left: 149px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+}
+.p12sub2 img {
+    width: 230px;
+    height: 230px;
+    margin-left: 41px;
+    margin-top: 64px;
+}
+.p12sub3text1 {
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #bf4800;
+    margin-left: 28px;
+    margin-top: 22px;
+   
+}
+.p12sub3 img {
+    width: 95px;
+    margin-left: 98px;
+}
+.p12sub3text2 {
+    font-size: 17px;
+    line-height: 1.23536;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    color: #1d1d1f;
+    margin-left: 27px;
+    margin-top: 0;
+}
+.p12sub3text3{
+    font-size: 14px;
+    line-height: 1.28577;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    cursor: pointer;
+    color: rgb(29, 29, 31);
+    margin-left: 27px;
+    margin-top: 57px;
+}
+.p12sub4 {
+    width: 313px;
+    height: 500px;
+    background-color: white;
+    width: 313px;
+    height: 500px;
+    background-color: white;
+    margin-left: 497px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    margin-top: -500px;
+}
+.p12sub5 img {
+    width: 230px;
+    height: 230px;
+    margin-left: 41px;
+    margin-top: 64px;
+}
+.p12sub6text1 {
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #bf4800;
+    margin-left: 28px;
+    margin-top: 50px;
+   
+}
+.p12sub6text2 {
+    font-size: 17px;
+    line-height: 1.23536;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    color: #1d1d1f;
+    margin-left: 27px;
+    margin-top: 0;
+}
+.p12sub6text3{
+    font-size: 14px;
+    line-height: 1.28577;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    cursor: pointer;
+    color: rgb(29, 29, 31);
+    margin-left: 27px;
+    margin-top: 57px;
+}
+.p12sub7 {
+    width: 313px;
+    height: 500px;
+    background-color: white;
+    width: 313px;
+    height: 500px;
+    background-color: white;
+    margin-left: 838px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    margin-top: -500px;
+}
+.p12sub8 img {
+    width: 230px;
+    height: 230px;
+    margin-left: 41px;
+    margin-top: 64px;
+}
+
+.p12sub9text2 {
+    font-size: 17px;
+    line-height: 1.23536;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    color: #1d1d1f;
+    margin-left: 27px;
+    margin-top: 41px;
+}
+.p12sub9text3{
+    font-size: 14px;
+    line-height: 1.28577;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    cursor: pointer;
+    color: rgb(29, 29, 31);
+    margin-left: 27px;
+    margin-top: 57px;
+}
+.p12sub10 {
+    width: 313px;
+    height: 500px;
+    background-color: white;
+    width: 313px;
+    height: 500px;
+    background-color: white;
+    margin-left: 1171px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    margin-top: -500px;
+}
+.p12sub11 img {
+    width: 230px;
+    height: 230px;
+    margin-left: 41px;
+    margin-top: 64px;
+}
+
+.p12sub12text2 {
+    font-size: 17px;
+    line-height: 1.23536;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    color: #1d1d1f;
+    margin-left: 27px;
+    margin-top: 41px;
+}
+.p12sub12text3{
+    font-size: 14px;
+    line-height: 1.28577;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    cursor: pointer;
+    color: rgb(29, 29, 31);
+    margin-left: 27px;
+    margin-top: 57px;
+}
+.p12sub13{
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    letter-spacing: .007em;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-top: 71px;
+    margin-left: 145px;
+}
+.p12sub13span1 {
+    color: #6e6e73;
+}
+.thirteen-position {
+    width: 100%;
+    height: 630px;
+    background-color: rgb(245, 245, 247);
+    margin-top: 40px;
+}
+.p13sub1 {
+    width: 480px;
+    height: 500px;
+    margin-left: 145px;
+}
+.p13sub2 img{
+    width: 480px;
+    height: 500px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    border-radius: 18px;
+    cursor: pointer;
+}
+.p13sub2 img:hover {
+    width: 485px;
+    height: 505px;
+    box-shadow: 4px 8px 18px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+}
+.p13sub2text1 {
+    margin-top: -471px;
+    color: #f5f5f7;
+    margin-left: 33px;
+    font-size: 12px;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+}
+.p13sub2text2 {
+    color: #fff;
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-top: 8px;
+    margin-left: 28px;
+}
+.p13sub3 {
+    width: 480px;
+    height: 500px;
+    margin-left: 638px;
+    margin-top: -499px;
+}
+.p13sub4 img{
+    width: 480px;
+    height: 500px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+    border-radius: 18px;
+    cursor: pointer;
+}
+.p13sub4 img:hover {
+    width: 485px;
+    height: 505px;
+    box-shadow: 4px 8px 18px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+}
+.p13sub5text2 {
+    color:#1d1d1f;
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-top: -462px;
+    margin-left: 28px;
+    width: 346px;
+}
+.p13sub5text3 {
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    letter-spacing: .007em;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #1d1d1f;
+    margin-top: 492px;
+    width: 849px;
+    margin-left: -490px;
+}
+.p13sub5text2span1 {
+    color: #6e6e73;
+}
+.fourteen-position {
+    width: 60%;
+    height: 600px;
+    background-color: rgb(245, 245, 247);
+}
+.p14sub1 {
+    width: 400px;
+    height: 500px;
+    margin-top: 11px;
+    margin-left: 158px;
+}
+.p14sub2 img{
+    width: 400px;
+    height: 500px;
+    border-radius: 18px;
+    box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+    transition: all .3s cubic-bezier(0,0,.5,1);
+
+}
+.p14sub2text1 {
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    color: #6e6e73;
+    width: 204px;
+    padding-bottom: 8px;
+    margin-top: -467px;
+    margin-left: 34px;
+}
+.p14sub2text2 {
+    color: #1d1d1f;
+    cursor: pointer;
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    letter-spacing: .007em;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-left: 30px;
+}
+.fifteen-position {
+    width: 100%;
+    height: 30px;
+    background-color: rgb(245, 245, 247);
+}
+.p15text1 {
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    letter-spacing: .007em;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #1d1d1f;
+    margin-left: 154px;
+    margin-top: -32px;
+}
+.sisteen-position {
+    width: 996px;
+    height: 557px;
+    background-color: rgb(245, 245, 247);
+    margin-left: 156px;
+    margin-top: 85px;
+    line-height: 2;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+footer {
+    --footer-background: #f5f5f7;
+    --footer-border-color: #d2d2d7;
+    --footer-text-color: #6e6e73;
+    --footer-link-color: #424245;
+    
+}
+
+
